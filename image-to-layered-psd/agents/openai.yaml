@@ -1,0 +1,4 @@
+interface:
+  display_name: "图片转完整分层 PSD"
+  short_description: "从扁平原图完成语义拆分、完整透明对象补全、分层PSD导出与验收"
+  default_prompt: "使用 $image-to-layered-psd 将这张扁平图片重建为经过完整验收的分层 PSD。"
